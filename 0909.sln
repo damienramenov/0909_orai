@@ -5,12 +5,6 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0909", "0909\0909.csproj", "{4ED035A8-9ED0-4FCA-8D15-C92E19CB421F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{D13CD7FE-656C-4C79-9A73-15C1FECF2C13}"
-	ProjectSection(SolutionItems) = preProject
-		2024_tavasz.sql = 2024_tavasz.sql
-		2023_osz.sql = 2023_osz.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
